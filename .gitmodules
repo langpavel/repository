@@ -40,6 +40,9 @@
 [submodule "plugin.video.teevee.sk"]
 	path = plugin.video.teevee.sk
 	url = https://github.com/kodi-czsk/plugin.video.teevee.sk
+[submodule "plugin.video.topserialy.sk"]
+	path = plugin.video.topserialy.sk
+	url = https://github.com/jose1711/plugin.video.topserialy.sk
 [submodule "plugin.video.tv.sosac.ph"]
 	path = plugin.video.tv.sosac.ph
 	url = https://github.com/kodi-czsk/plugin.video.tv.sosac.ph
